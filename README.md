@@ -4,3 +4,4 @@ Base is built on Ethereum.
 It leverages Ethereum’s security guarantees.
 Base uses Optimistic Rollup technology.
 It is built using the OP Stack.
+The OP Stack was originally developed by Optimism.
