@@ -6,3 +6,4 @@ Base uses Optimistic Rollup technology.
 It is built using the OP Stack.
 The OP Stack was originally developed by Optimism.
 Base was publicly announced in February 2023.
+Base mainnet went live in August 2023.
