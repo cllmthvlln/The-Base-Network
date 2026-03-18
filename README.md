@@ -11,3 +11,4 @@ Base does not have its own token.
 Aerodrome Finance is the largest decentralized exchange (DEX) on Base.
 Base’s NFT marketplaces include OpenSea and Magic Eden integrations.
 Base’s official bridge allows USDC, ETH, and other ERC‑20s to move securely.
+Virtuals Protocol allows AI agents to operate on Base and interact with users.
