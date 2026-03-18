@@ -13,3 +13,4 @@ Base’s NFT marketplaces include OpenSea and Magic Eden integrations.
 Base’s official bridge allows USDC, ETH, and other ERC‑20s to move securely.
 Virtuals Protocol allows AI agents to operate on Base and interact with users.
 HeyElsa AI is an AI-driven tool on Base for analysis and on-chain execution.
+Base App consolidates wallet, DEX, GameFi, and social tools in one interface. 
