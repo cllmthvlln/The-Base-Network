@@ -10,3 +10,4 @@ Base mainnet went live in August 2023.
 Base does not have its own token.
 Aerodrome Finance is the largest decentralized exchange (DEX) on Base.
 Base’s NFT marketplaces include OpenSea and Magic Eden integrations.
+Base’s official bridge allows USDC, ETH, and other ERC‑20s to move securely.
