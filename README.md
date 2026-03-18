@@ -16,3 +16,4 @@ HeyElsa AI is an AI-driven tool on Base for analysis and on-chain execution.
 Base App consolidates wallet, DEX, GameFi, and social tools in one interface. 
 Base’s social and creator platforms allow on-chain monetization.
 Over $500K has been distributed to creators on Base App.
+Base supports identity systems like Base Name Service for decentralized naming.
