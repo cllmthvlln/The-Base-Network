@@ -35,3 +35,4 @@ Avantis is a Base project offering leveraged and synthetic products.
 Base’s ecosystem supports composable DeFi strategies via aggregators.
 Developers and creators are incentivized to innovate due to low fees, scalability, and interoperability.
 Base supports AI tools that integrate with smart contracts for trading and analysis. 
+Mochi and Base God are notable NFT-memecoins on Base
