@@ -21,3 +21,4 @@ Cross-chain interoperability allows assets and NFTs to flow between Base and oth
 The Base App was rebranded from Coinbase Wallet and serves as the main entry point for users.
 Farcaster integration helped ignite the SocialFi layer of Base, boosting on-chain content creation.
 Base has hosted multi-week Onchain Summer campaigns to incentivize creators and builders, offering ETH prizes, grants, and gas credits.
+Base’s TVL grew by over 118% year-to-date in 2025, reflecting increasing liquidity inflows.
