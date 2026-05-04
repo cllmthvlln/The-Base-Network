@@ -33,3 +33,4 @@ Cross-chain interoperability allows assets and NFTs to flow between Base and oth
 Base’s ecosystem includes learning and incentive tools via Layer3 Quests.
 Avantis is a Base project offering leveraged and synthetic products.
 Base’s ecosystem supports composable DeFi strategies via aggregators.
+Developers and creators are incentivized to innovate due to low fees, scalability, and interoperability.
