@@ -30,3 +30,4 @@ AerodromeFi launched Solana bridging to Base, enabling diversified liquidity.
 AI prediction apps and tools like KaitoAI launched natively within the Base ecosystem.
 Base’s weekly ecosystem updates became a hub for community announcements.
 Cross-chain interoperability allows assets and NFTs to flow between Base and other networks. 
+Base’s ecosystem includes learning and incentive tools via Layer3 Quests.
