@@ -28,3 +28,4 @@ In November 2025, Base set a record with 15.4 million transactions in one day.
 Base has a Stage 1 decentralized architecture while continuing its transition towards greater decentralization.
 AerodromeFi launched Solana bridging to Base, enabling diversified liquidity.
 AI prediction apps and tools like KaitoAI launched natively within the Base ecosystem.
+Base’s weekly ecosystem updates became a hub for community announcements.
