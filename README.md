@@ -37,3 +37,4 @@ Developers and creators are incentivized to innovate due to low fees, scalabilit
 Base supports AI tools that integrate with smart contracts for trading and analysis. 
 Mochi and Base God are notable NFT-memecoins on Base
 Cross-chain interoperability allows assets and NFTs to flow between Base and other networks. 
+BaseScan is an on-chain explorer for tracking Base transactions.
