@@ -36,3 +36,4 @@ Base’s ecosystem supports composable DeFi strategies via aggregators.
 Developers and creators are incentivized to innovate due to low fees, scalability, and interoperability.
 Base supports AI tools that integrate with smart contracts for trading and analysis. 
 Mochi and Base God are notable NFT-memecoins on Base
+Cross-chain interoperability allows assets and NFTs to flow between Base and other networks. 
