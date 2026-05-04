@@ -22,3 +22,4 @@ The Base App was rebranded from Coinbase Wallet and serves as the main entry poi
 Farcaster integration helped ignite the SocialFi layer of Base, boosting on-chain content creation.
 Base has hosted multi-week Onchain Summer campaigns to incentivize creators and builders, offering ETH prizes, grants, and gas credits.
 Base’s TVL grew by over 118% year-to-date in 2025, reflecting increasing liquidity inflows.
+Thirdweb is a popular no-code tool used for launching NFTs, tokens, and contracts on Base.
