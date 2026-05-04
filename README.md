@@ -38,3 +38,4 @@ Base supports AI tools that integrate with smart contracts for trading and analy
 Mochi and Base God are notable NFT-memecoins on Base
 Cross-chain interoperability allows assets and NFTs to flow between Base and other networks. 
 BaseScan is an on-chain explorer for tracking Base transactions.
+Base allows microtransactions due to its low fees.
