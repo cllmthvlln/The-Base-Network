@@ -31,3 +31,4 @@ AI prediction apps and tools like KaitoAI launched natively within the Base ecos
 Base’s weekly ecosystem updates became a hub for community announcements.
 Cross-chain interoperability allows assets and NFTs to flow between Base and other networks. 
 Base’s ecosystem includes learning and incentive tools via Layer3 Quests.
+Avantis is a Base project offering leveraged and synthetic products.
