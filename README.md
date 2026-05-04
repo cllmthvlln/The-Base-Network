@@ -23,3 +23,4 @@ Farcaster integration helped ignite the SocialFi layer of Base, boosting on-chai
 Base has hosted multi-week Onchain Summer campaigns to incentivize creators and builders, offering ETH prizes, grants, and gas credits.
 Base’s TVL grew by over 118% year-to-date in 2025, reflecting increasing liquidity inflows.
 Thirdweb is a popular no-code tool used for launching NFTs, tokens, and contracts on Base.
+Moonwell is a native Base DeFi lending protocol focused on yield and ease of use.
