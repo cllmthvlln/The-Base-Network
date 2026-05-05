@@ -48,3 +48,4 @@ Virtuals Protocol allows users to create AI agents that can interact, transact, 
 Clanker simplifies token creation by letting users deploy assets through simple prompts or commands.
 Limitless has grown into a major prediction market platform where users can speculate on real-world outcomes.
 Zora enables creators to turn individual pieces of content into tradable tokens.
+Farcaster plays a major role as a social layer, with many apps integrating directly into its ecosystem.
