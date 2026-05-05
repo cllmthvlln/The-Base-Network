@@ -58,3 +58,4 @@ Continuous project launches and integrations suggest long-term growth momentum.
 Base is now beginning to explore a network token.
 Base’s ecosystem has reached over 100 unique projects with active adoption.
 Base App daily active users reached multi-million levels by 2025. 
+ase enables the creation of on-chain mini-economies for communities. 
