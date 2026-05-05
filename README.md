@@ -45,3 +45,4 @@ Base supports DeFi giants like Aave and Balancer.
 City Protocol explores AI use cases on Base.
 The DeFi sector collectively forms one of the strongest pillars of the ecosystem’s growth.
 Virtuals Protocol allows users to create AI agents that can interact, transact, and even generate revenue autonomously.
+Clanker simplifies token creation by letting users deploy assets through simple prompts or commands.
