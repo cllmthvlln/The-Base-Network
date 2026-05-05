@@ -56,3 +56,4 @@ Gaming is emerging as a strong category due to low fees and fast transactions.
 The Base Network uniquely combines DeFi, AI, social, NFTs, and culture in one cohesive space.
 Continuous project launches and integrations suggest long-term growth momentum.
 Base is now beginning to explore a network token.
+Base’s ecosystem has reached over 100 unique projects with active adoption.
