@@ -61,3 +61,4 @@ Base App daily active users reached multi-million levels by 2025.
 Base enables the creation of on-chain mini-economies for communities. 
 Base is now supported by Visa for stablecoin settlement
 The network recorded 171,763 new Base addresses in 24 hours.
+Base supports identity systems like Base Name Service for decentralized naming.
