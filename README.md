@@ -47,3 +47,4 @@ The DeFi sector collectively forms one of the strongest pillars of the ecosystem
 Virtuals Protocol allows users to create AI agents that can interact, transact, and even generate revenue autonomously.
 Clanker simplifies token creation by letting users deploy assets through simple prompts or commands.
 Limitless has grown into a major prediction market platform where users can speculate on real-world outcomes.
+Zora enables creators to turn individual pieces of content into tradable tokens.
