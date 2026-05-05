@@ -51,3 +51,4 @@ Zora enables creators to turn individual pieces of content into tradable tokens.
 Farcaster plays a major role as a social layer, with many apps integrating directly into its ecosystem.
 Brett has become the most recognizable memecoin on Base, gaining massive popularity and liquidity.
 Base is widely considered one of the fastest-growing Layer 2 ecosystems.
+Limitless design reduces liquidation risk, making participation easier for non-professional traders. 
