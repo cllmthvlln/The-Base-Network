@@ -40,3 +40,4 @@ Cross-chain interoperability allows assets and NFTs to flow between Base and oth
 BaseScan is an on-chain explorer for tracking Base transactions.
 Base allows microtransactions due to its low fees.
 Aerodrome controls ~50% of DEX volume on Base.
+Seamless Protocol is a native lending/borrowing protocol.
