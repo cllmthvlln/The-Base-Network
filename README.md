@@ -43,3 +43,4 @@ Aerodrome controls ~50% of DEX volume on Base.
 Seamless Protocol is a native lending/borrowing protocol.
 Base supports DeFi giants like Aave and Balancer.
 City Protocol explores AI use cases on Base.
+The DeFi sector collectively forms one of the strongest pillars of the ecosystem’s growth.
